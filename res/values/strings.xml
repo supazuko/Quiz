@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="test_your_mettle">Test Your Mettle</string>
+
+    <!--question one-->
+    <string name="question_1">1) What is the full meaning of XML ?</string>
+
+    <!--question two and options-->
+    <string name="question_2">2) What is the latest Android OS version ?</string>
+    <string name="question2A">Oreo</string>
+    <string name="question2B">Nougat</string>
+    <string name="question2C">Marshmallow</string>
+    <string name="question2D">Lollipop</string>
+
+    <!--question three and options-->
+    <string name="question_3">3) Which of these are made by Google ?</string>
+    <string name="question3A">Facebook</string>
+    <string name="question3B">Gmail</string>
+    <string name="question3C">YouTube</string>
+    <string name="question3D">Twitter</string>
+
+    <!--question four and options-->
+    <string name="question_4">4) how would you write in camel case \'Andela Learning Community'</string>
+
+    <!--question five and options-->
+    <string name="question_5">5) Android apps can be developed using which IDE?</string>
+    <string name="question5A">Bracket</string>
+    <string name="question5B">Sublime</string>
+    <string name="question5C">Notepad</string>
+    <string name="question5D">Android studio</string>
+
+    <!--question six and options-->
+    <string name="question_6">6) Do You Have Your Permanent Voter\'s Card ?</string>
+    <string name="question6A">No</string>
+    <string name="question6B">Yes</string>
+    <!--<string name="question6C">6.0 Strawberry</string>-->
+    <!--<string name="question6D">2.0 Eclair</string>-->
+
+    <string name="submit">Submit</string>
+    <string name="reset">reset</string>
+
+</resources>
